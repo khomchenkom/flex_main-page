@@ -1,0 +1,35 @@
+
+@import url('./normalize.css');
+
+@import url('./base.css');
+
+@import url('./header.css');
+
+@import url('./welcome.css');
+
+@import url('./hot-tours.css');
+
+@import url('./deals.css');
+
+@import url('./paginator.css');
+
+@import url('./about-us.css');
+
+@import url('./footer.css');
+
+
+
+.wrapper--main-page {
+  background: url("./1.png") center top -4px no-repeat, url("./2.png") center bottom 180px no-repeat;
+}
+
+/* стили*/
+
+
+
+
+
+
+
+
+

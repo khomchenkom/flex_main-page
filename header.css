@@ -1,0 +1,55 @@
+.header-block{
+  padding-top:20px;
+  height:123.36px;
+  width:100%;
+  display:flex;
+  justify-content: space-between;
+  margin-bottom:46px;
+}
+
+.col__one {
+  margin-top:6px;
+  flex:1;
+}
+
+.logo-link {
+  display:inline-block;
+  vertical-align: middle;  
+}
+
+.logo-img {
+  width:85px;
+  height:36px;
+}
+
+.menu-block {
+  display:inline-block;
+  vertical-align: middle;
+  margin-left:75px;
+  width:266px
+}
+
+.menu {
+  display:flex;
+  justify-content:space-between;
+}
+
+.menu__link {
+  font-size:14px;
+}
+
+.header__col-two{
+  margin-top:0;
+}
+
+.contacts__phone {
+  font-size:26px;
+}
+
+.phone__dropdown-tite {
+  text-align: end;
+  text-decoration: underline;
+  font-style:normal;
+  font-size:13px;
+  margin-top:-8px;
+}

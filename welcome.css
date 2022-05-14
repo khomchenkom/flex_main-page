@@ -1,0 +1,19 @@
+.welcome {
+  width:50%;
+  display:flex;
+  flex-direction:column;
+  justify-content:space-between;
+  margin-bottom:250px;
+}
+
+.welcome__title {
+  margin-bottom: 17px;
+  font-size:72px;
+  font-weight:700;
+}
+
+.welcome__slogan {
+  margin-bottom: 30px;
+  font-size:18px;
+}
+
