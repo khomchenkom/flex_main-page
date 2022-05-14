@@ -1,0 +1,19 @@
+.welcome {
+  width:50%;
+  display:flex;
+  flex-direction:column;
+  justify-content:space-between;
+  margin-bottom:250px;
+}
+
+.welcome h1 {
+  margin-bottom: 17px;
+  font-size:72px;
+  font-weight:700;
+}
+
+.welcome h3 {
+  margin-bottom: 30px;
+  font-size:18px;
+}
+
